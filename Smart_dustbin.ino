@@ -1,14 +1,13 @@
 #include <VarSpeedServo.h>
 
+#define echoPin 8
+#define trigPin 10
 #define echoPin1 11
 #define trigPin1 7
 #define led1Pin 4
 #define led2Pin 5
 #define led3Pin 6
-
-int trigPin = 8;
-int echoPin = 10;
-int servoPin = 9;
+#define servoPin 9
 
 VarSpeedServo servo;
 
