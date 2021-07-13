@@ -5,7 +5,7 @@ Smart Dustbin is an Arduino based device created during 6 days workshop at Gramm
 ## Image
 
 <div align="center">
-   <img src="./images/dustbin.png" width="100%" height="100%" />
+   <img src="./images/dustbin.png" width="50%" height="50%" />
 </div>
 
 ## Components Used
