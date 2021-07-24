@@ -11,11 +11,11 @@ Smart Dustbin is an Arduino based device created during 6 days workshop at Gramm
 ## Components Used
 
 1. Arduino Uno
-2. Servo Motor
-3. Led *3
-4. Ultrasonic sensor HC-SR04 *2
-5. Lipo Battery
-6. Bread Board
+1. Servo Motor
+1. Led *3
+1. Ultrasonic sensor HC-SR04 *2
+1. Lipo Battery
+1. Bread Board
 
 ## Working
 
